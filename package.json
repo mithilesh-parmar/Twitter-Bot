@@ -1,0 +1,16 @@
+{
+  "name": "TwitterBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11",
+    "twitter-api-v2": "^1.11.0"
+  }
+}
